@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log in page using SQL database WPF", "Log in page using SQL database WPF\Log in page using SQL database WPF.csproj", "{48391FBE-3675-44EB-949F-F16708EA6BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48391FBE-3675-44EB-949F-F16708EA6BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48391FBE-3675-44EB-949F-F16708EA6BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48391FBE-3675-44EB-949F-F16708EA6BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48391FBE-3675-44EB-949F-F16708EA6BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1121E553-3020-49F6-B2D2-CC43A43F37BA}
+	EndGlobalSection
+EndGlobal

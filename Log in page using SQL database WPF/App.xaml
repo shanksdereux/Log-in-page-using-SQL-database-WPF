@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Log_in_page_using_SQL_database_WPF.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Log_in_page_using_SQL_database_WPF"
+    StartupUri="MainWindow.xaml">
+    <Application.Resources />
+</Application>
